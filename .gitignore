@@ -1,0 +1,5 @@
+.env
+*_brief_*.md
+__pycache__/
+*.pyc
+.DS_Store
